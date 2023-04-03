@@ -38,5 +38,13 @@
     "descr": "Application for selling, buying and finding pets. Role: Developer. Working with a team using the Scrum methodology. Developed the Our friends page.",
     "stack": "HTML, CSS, JS, React, Redux, Node.js, MongoDB, Parcel",
     "codeLink": "https://github.com/volodymyr-ok/petly-project"
+  },
+  {
+    "name": "Hotels",
+    "img": "https://res.cloudinary.com/dzgymz0kt/image/upload/v1680521544/hotels_sf7kdg.jpg",
+    "link": "https://fascinating-duckanoo-351679.netlify.app/",
+    "descr": "Pet-project for finding hotels and booking them. Role: Developer.",
+    "stack": "HTML, CSS, JS, Vue, Vuex, Parcel",
+    "codeLink": "https://github.com/Burko-Oleksandra/hotels"
   }
 ]
