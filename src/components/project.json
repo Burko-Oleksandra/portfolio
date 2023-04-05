@@ -46,5 +46,21 @@
     "descr": "Pet-project for finding hotels and booking them. Role: Developer.",
     "stack": "HTML, CSS, JS, Vue, Vuex, Parcel",
     "codeLink": "https://github.com/Burko-Oleksandra/hotels"
+  },
+  {
+    "name": "Phonebook",
+    "img": "https://res.cloudinary.com/dzgymz0kt/image/upload/v1680731907/phonebook_encjlg.jpg",
+    "link": "https://burko-oleksandra.github.io/goit-react-hw-08-phonebook",
+    "descr": "Pet project phone book. With the ability to register, add/delete contacts. Role: Developer.",
+    "stack": "HTML, CSS, JS, React, Redux, Parcel",
+    "codeLink": "https://github.com/Burko-Oleksandra/goit-react-hw-08-phonebook"
+  },
+  {
+    "name": "Movies",
+    "img": "https://res.cloudinary.com/dzgymz0kt/image/upload/v1680731911/movies_g52qgv.jpg",
+    "link": "https://burko-oleksandra.github.io/goit-react-hw-05-movies",
+    "descr": "Pet-project for finding hotels and booking them. Role: Developer.",
+    "stack": "HTML, CSS, JS, React, Redux, Parcel",
+    "codeLink": "https://github.com/Burko-Oleksandra/goit-react-hw-05-movies"
   }
 ]
