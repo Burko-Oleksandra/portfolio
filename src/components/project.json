@@ -18,7 +18,7 @@
   {
     "name": "Cocktails",
     "img": "https://res.cloudinary.com/dzgymz0kt/image/upload/v1679679768/el0pebqstwq13mvmfw6r.jpg",
-    "link": "https://maksymomelchuk.github.io/cocktails/",
+    "link": "https://github.com/Burko-Oleksandra/cocktails",
     "descr": "Application for choosing coctails, website with adaptive layout. Role: Scrum Master. Work with a team, distribution of tasks and priorities, work according to the Scrum methodology, project presentation. Created a section Cocktails.",
     "stack": "HTML, SASS, JS, Parcel",
     "codeLink": "https://github.com/maksymomelchuk/cocktails"
@@ -29,7 +29,7 @@
     "link": "https://hodosovsky.github.io/kapusta/login",
     "descr": "A personal budget control application, a tool for tracking expenses, income and the balance between them. Role: Developer. Working with a team using the Scrum methodology. I was engaged in the development of the authorization page.",
     "stack": "HTML, CSS, JS, React, Redux, Parcel",
-    "codeLink": "https://github.com/hodosovsky/kapusta"
+    "codeLink": "https://github.com/Burko-Oleksandra/kapusta"
   },
   {
     "name": "Petly",
@@ -37,7 +37,7 @@
     "link": "https://petly-project-app.netlify.app",
     "descr": "Application for selling, buying and finding pets. Role: Developer. Working with a team using the Scrum methodology. Developed the Our friends page.",
     "stack": "HTML, CSS, JS, React, Redux, Node.js, MongoDB, Parcel",
-    "codeLink": "https://github.com/volodymyr-ok/petly-project"
+    "codeLink": "https://github.com/Burko-Oleksandra/petly-project"
   },
   {
     "name": "Hotels",
