@@ -18,10 +18,10 @@
   {
     "name": "Cocktails",
     "img": "https://res.cloudinary.com/dzgymz0kt/image/upload/v1679679768/el0pebqstwq13mvmfw6r.jpg",
-    "link": "https://github.com/Burko-Oleksandra/cocktails",
+    "link": "https://maksymomelchuk.github.io/cocktails/",
     "descr": "Application for choosing coctails, website with adaptive layout. Role: Scrum Master. Work with a team, distribution of tasks and priorities, work according to the Scrum methodology, project presentation. Created a section Cocktails.",
     "stack": "HTML, SASS, JS, Parcel",
-    "codeLink": "https://github.com/maksymomelchuk/cocktails"
+    "codeLink": "https://github.com/Burko-Oleksandra/cocktails"
   },
   {
     "name": "Kapu$ta",
